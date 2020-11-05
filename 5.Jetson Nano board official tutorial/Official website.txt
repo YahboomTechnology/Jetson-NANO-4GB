@@ -1,0 +1,14 @@
+Getting started manual:
+https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit  jetson nano
+
+NVIDIA Learning AI website:
+https://www.nvidia.com/en-us/deep-learning-ai  
+
+NVIDIA Developer Blog with Reviews:
+https://devblogs.nvidia.com/jetson-nano-ai-computing/   
+
+ jetbot Smart Car£º
+http://www.gpus.cn/gpus_list_page_techno_support_content?id=50 
+
+Accessories installation tutorial£º
+https://www.jetsonhacks.com/2019/04/08/jetson-nano-intel-wifi-and-bluetooth/  
