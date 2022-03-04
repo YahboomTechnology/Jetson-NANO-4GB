@@ -1,0 +1,3 @@
+Enter this link: http://www.yahboom.net/study/jetson-nano
+Click [Download]---[eMMC boot file] to download eMMC.
+Click [Download]---[SUB Udisk image] to download Udisk system image for SUB board.
