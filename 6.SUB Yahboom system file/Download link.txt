@@ -1,2 +1,0 @@
-Enter this link: http://www.yahboom.net/study/jetson-nano
-Click [Download]---[SUB Yahboom system file] to download Udisk system image for SUB board.
