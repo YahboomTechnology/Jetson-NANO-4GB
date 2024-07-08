@@ -1,5 +1,5 @@
-# Jetson NANO 4GB B01 Developer Kit
-![](https://github.com/YahboomTechnology/Jetson-NANO-4GB/blob/master/Jetson_NANO_B01.jpg)
+# Jetson NANO 4GB B01/SUB Developer Kit
+![](https://github.com/YahboomTechnology/Jetson-NANO-4GB/blob/master/Jetson-NANO.jpg)
 # Introduction
 Jetson Nano B01 Developer Kit is a small, powerful computer that lets you run multiple neural networks in parallel for applications like image classification, object detection, segmentation, and speech processing. All in an easy-to-use platform that runs in as little as 5 watts. On-board display, USB , Gigabit Ethernet, micro USB, DC power, Poe, camera interface, and supports install wireless network card with antenna.
 
